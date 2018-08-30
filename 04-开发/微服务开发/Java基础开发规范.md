@@ -8,17 +8,17 @@
 
     在Idea中安装sonarLint插件：
 
-    ![](/develop/choerodon-specification/04-开发/微服务开发/image/pluginInstall1.png)
+    ![](./image/pluginInstall1.png)
 
-    ![](/develop/choerodon-specification/04-开发/微服务开发/image/pluginInstall2.png)
+    ![](./image/pluginInstall2.png)
 
     指定本地修改的文件或者全项目检查：
 
-    ![](/develop/choerodon-specification/04-开发/微服务开发/image/sonarSetting.png)
+    ![](./image/sonarSetting.png)
 
     查看不符合检查的地方：
 
-    ![](/develop/choerodon-specification/04-开发/微服务开发/image/sonarResult.png)
+    ![](./image/sonarResult.png)
 
  1. 本地开启checkStyle规范检查,注意更新插件，否则部分规则不适用于旧版本会报错：
 
@@ -28,7 +28,7 @@
 
     <a href="choerodon_checkStyle.xm">choerodon_checkStyle.xm</a>
 
-    ![](/develop/choerodon-specification/04-开发/微服务开发/image/sonarResult.png)
+    ![](./image/sonarResult.png)
 
 附:
 
@@ -41,15 +41,15 @@ alibaba p3c代码规范：<a href="aliP3c">aliP3c</a>
 ## idea设置
  1. 修改import分组、排序规则
 
-    ![](/develop/choerodon-specification/04-开发/微服务开发/image/java_import.png)
+    ![](./image/java_import.png)
 
  1. 换行设置
 
-    ![](/develop/choerodon-specification/04-开发/微服务开发/image/warp_setting.png)
+    ![](./image/warp_setting.png)
 
  1. tab设置
   
-    ![](/develop/choerodon-specification/04-开发/微服务开发/image/tab_setting.png)
+    ![](./image/tab_setting.png)
 
 
 
